@@ -99,3 +99,7 @@ open -a Simulator
 ```
 flutter doctor
 ```
+
+```
+flutter format //path
+```
