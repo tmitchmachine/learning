@@ -7,8 +7,8 @@
 5. [Create Discord Chat Bot](https://www.youtube.com/watch?v=SPTfmiYiuok)
 6. Create Startup namer app [Part 1](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1#0) and [Part 2](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2#0) 
 7. Send Inspire to iOS and Google Play Store
-8.[ Work On Google Friendly Chat Application](https://codelabs.developers.google.com/codelabs/flutter#0)
-9. 
+8.[ Work On Google Friendly Chat Application](https://codelabs.developers.google.com/codelabs/flutter#10)
+9. Watch Code Videos @HArvard And Try To Build Small GRoup
 
 Goal
 Try to build small group app
