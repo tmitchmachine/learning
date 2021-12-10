@@ -12,19 +12,19 @@
 9. [Watch Code Videos Harvard](https://cs50.harvard.edu/college/2021/fall/weeks/3/)
 10. [Finish Work on Tutorial-point ](https://www.tutorialspoint.com/javascript/)
 
-Learn 
-Object Oriented Programming Concepts Of Abstraction, Encapsulation, Inheritance, Polymorphism
-Flutter
-React
-Firebase
+## Learn 
+-Object Oriented Programming Concepts Of Abstraction, Encapsulation, Inheritance, Polymorphism
+-Flutter
+- React
+- Firebase
 
 Inspire 
-•  Update Content
-•  Resend to iOS & Google Play Store 
+- Update Content
+- Resend to iOS & Google Play Store 
 
 Small Group
-• Try to build it
-• Send to iOS & Google Play Store
+- Try to build it
+- Send to iOS & Google Play Store
 
 
 
