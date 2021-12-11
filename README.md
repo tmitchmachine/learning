@@ -118,5 +118,5 @@ flutter format //path
 ```
 
 ```
-cmd + shift + p //format code
+cmd + shift + p //format document
 ```
