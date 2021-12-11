@@ -120,3 +120,11 @@ flutter format //path
 ```
 cmd + shift + p //format document
 ```
+
+```
+flutter clean
+```
+
+```
+flutter packages upgrade
+```
