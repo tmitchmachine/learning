@@ -116,3 +116,7 @@ flutter doctor
 ```
 flutter format //path
 ```
+
+```
+cmd + shift + p //format code
+```
