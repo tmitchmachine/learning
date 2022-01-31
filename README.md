@@ -61,6 +61,36 @@ git push --set-upstream origin main
 git push -u orgin main
 ```
 
+## More Commands
+
+```
+git clone -b "branch" "https://github.com/ORGANIZATION/REPO.git"
+```
+
+```
+git checkout --track "ORGANIZATION/BRANCH"
+```
+
+```
+git add .
+```
+   
+```
+git commit -m "Description"
+```
+
+```
+git commit -m "testing"
+```
+
+```
+git push 
+```
+
+```
+cd "repo name after /" && git push 
+```
+ 
 ## Getting Started With Flutter
 
 ### [Install Flutter On Your Computer](https://www.youtube.com/watch?v=YVaFoCiQ2SI)
