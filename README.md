@@ -91,6 +91,21 @@ git push
 cd "repo name after /" && git push 
 ```
  
+
+## Updating a branch that has been cloned
+
+```
+git add .
+```
+
+```
+git commit -m "Description"
+```
+
+```
+git push
+```
+
 ## Getting Started With Flutter
 
 ### [Install Flutter On Your Computer](https://www.youtube.com/watch?v=YVaFoCiQ2SI)
