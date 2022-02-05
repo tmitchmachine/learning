@@ -13,8 +13,8 @@
 10. [Finish Work on Tutorial-point ](https://www.tutorialspoint.com/javascript/)
 
 ## Learn 
--Object Oriented Programming Concepts Of Abstraction, Encapsulation, Inheritance, Polymorphism
--Flutter
+- Object Oriented Programming Concepts Of Abstraction, Encapsulation, Inheritance, Polymorphism
+- Flutter
 - React
 - Firebase
 
