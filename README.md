@@ -291,3 +291,10 @@ To receive suggestions = cmd + .
 Highlight text change = cmd + d as many times as needed
 
 To receives recommendations = control + space bar
+
+## Merging Other Branches To Main
+Go to https://github.com/heavenya/heavenya
+Go to  https://github.com/heavenya/heavenya/pulls and select New pull request
+Select which branches you want to merge the https://github.com/heavenya/heavenya/compare
+Select view pull request https://github.com/heavenya/heavenya/pull/124
+Scroll down and select Merge Pull Request
