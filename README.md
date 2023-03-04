@@ -174,18 +174,10 @@ flutter clean
 flutter packages upgrade
 ```
 
-Revert To An Old Commit =  git reset --hard <commit-hash> 
+## Revert To An Old Commit =  git reset --hard <commit-hash> 
 (Keep in mind to remove both < > and copy the full SHA number 
 example cee7a322c188e3e816521cd924f2e877cf6fe0ae)
 
 Push Reverted Branch To Github = git push -f origin master
 
-Push Old Commit = 
-
-Shift + option + f = Formats the code neatly
-
-Cmd + F2= allow all highlighted word occurrences on page to be edited at the same time
-
-Cmd + / = Comment out lines
-
-Cmd + b = hide sidebar menu
+https://www.youtube.com/watch?v=ml2N3APdoB0
