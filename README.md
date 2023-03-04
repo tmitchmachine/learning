@@ -180,6 +180,12 @@ example cee7a322c188e3e816521cd924f2e877cf6fe0ae)
 
 Push Reverted Branch To Github = git push -f origin master
 
+#### If it was a merged commit
+git revert -m 1<SHA Number> 
+   
+#### If not a merged commit
+git revert <SHA Number> 
+
 https://www.youtube.com/watch?v=ml2N3APdoB0
    
    
