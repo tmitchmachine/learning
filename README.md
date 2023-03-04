@@ -181,3 +181,110 @@ example cee7a322c188e3e816521cd924f2e877cf6fe0ae)
 Push Reverted Branch To Github = git push -f origin master
 
 https://www.youtube.com/watch?v=ml2N3APdoB0
+   
+   
+## Keyboard Commands
+See hidden files = shift + cmd + .
+
+## Terminal Commands
+Mkdir = create a new directory which is a folder
+Cd = change directory
+Cd .. = go back a directory
+
+## Advanced Search Commands
+
+Type the specific error message inside the quotes “error message” 
+
+After: “date”
+
+“Error message” after”2021”
+
+Site:URL if you only want results from a specific website
+You can add a - to remove certain frameworks example -graphql
+
+Place .. for a range for example 2010..2020
+
+When searching for one or the other also with and extra term after it (A | B) C
+
+To find subdomains SITE:*fireship.io -www
+
+Searching Images for a specific type use filetype:”filename” for example filetype:png
+
+To see what your competitors are up to use related:url
+
+To see if the latest website version has been coached cache:URL
+
+
+
+## Chrome Commands
+Open Develop Tools = cmd + option + I
+
+Chrome Hide Bookmarks Bar By selecting : in upper right corner select bookmarks and ten select show
+
+To hide URL bar shift + cmd + f in full screen mode
+   
+
+## Vivaldi Commands
+U = Source code
+O = Open Files
+D = Bookmark
+H = Home
+M = Minimize
+L = URL
+Space = Over Bookmark Folder
+
+## Jasper Commands
+Highlight then cmd + enter = Say “Write as paragraph about why dogs are better than cats 
+
+*** = to block text above from being read by jasper
+
+> = Designate just that line of text
+
+{} = For inserting a variable example DESTINATION
+
+cmd + k = show history of past commands that you used
+
+cmd + shift + J = it will keep the command visible on the page after it was completed
+
+Cmd + j = to compose
+
+Cmd + / = rerun whatever was just written
+
+
+
+Full shortcuts list
+
+
+## VS Code Commands
+
+Shift + option + f = Formats the code neatly
+
+Cmd + F2= allow all highlighted word occurrences on page to be edited at the same time
+
+Cmd + / = Comment out lines
+
+Cmd + b = hide sidebar menu
+
+Learn More cmd + click on item
+
+Visual Studio  Open Terminal = CMD + J
+
+Open App = expo start
+
+Open Simulator = npx react-native run-ios
+
+Save File= CMD S
+
+Redo = shift + cmd + z
+
+Stop Server = Control C
+
+Comment Out = cmd + C, U
+
+Uncomment = cmd + K, U
+
+To receive suggestions = cmd + .
+
+Highlight text change = cmd + d as many times as needed
+
+To receives recommendations = control + space bar
