@@ -11,6 +11,7 @@
 
 9. [Watch Code Videos Harvard](https://cs50.harvard.edu/college/2021/fall/weeks/3/)
 10. [Finish Work on Tutorial-point ](https://www.tutorialspoint.com/javascript/)
+11. Dedcided to study CS in college
 
 ## Learn 
 - Object Oriented Programming Concepts Of Abstraction, Encapsulation, Inheritance, Polymorphism
