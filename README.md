@@ -8,10 +8,10 @@
 6. Create Startup namer app [Part 1](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1#0) and [Part 2](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2#0) 
 7. Send Inspire to iOS and Google Play Store
 8. [Google Friendly Chat Application](https://codelabs.developers.google.com/codelabs/flutter#10)
-
 9. [Watch Code Videos Harvard](https://cs50.harvard.edu/college/2021/fall/weeks/3/)
 10. [Finish Work on Tutorial-point ](https://www.tutorialspoint.com/javascript/)
-11. Dedcided to study CS in college
+11. Studied one on one with Young Wonks tutor in [Pro Wonks Program for a few hundred per month.](https://www.youngwonks.com)
+12. Decided to study CS in college
 
 ## Learn 
 - Object Oriented Programming Concepts Of Abstraction, Encapsulation, Inheritance, Polymorphism
