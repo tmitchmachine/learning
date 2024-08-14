@@ -172,11 +172,15 @@ flutter clean
 ```
 
 ```
-flutter packages upgrade
+flutter clean 
 ```
 
 ```
-flutter clean 
+flutter pub cache repair
+```
+
+```
+flutter packages upgrade
 ```
 
 ```
