@@ -175,6 +175,18 @@ flutter clean
 flutter packages upgrade
 ```
 
+```
+flutter clean 
+```
+
+```
+flutter pub get // for packages
+```
+
+```
+flutter run --verbose // for details in terminal when debugging
+```
+
 ## Revert To An Old Commit =  
 
 git reset --hard <commit-hash> 
