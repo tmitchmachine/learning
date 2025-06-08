@@ -11,9 +11,12 @@
 9. [Watch Code Videos Harvard](https://cs50.harvard.edu/college/2021/fall/weeks/3/)
 10. [Finish Work on Tutorial-point ](https://www.tutorialspoint.com/javascript/)
 11. Studied one on one with Young Wonks tutor in [Pro Wonks Program for a few hundred per month.](https://www.youngwonks.com)
-12. Decided to study CS in college 
+12. Decided to study CS in college (CS7 intro to Python & CS1 Computing Fundamentals 1)
 14. Cloned a repo and built website [tmitchmachine.com](https://www.tmitchmachine.com) in python and flask.
 15. Over the summer began coding GenPlan & Heavenya in Flutter which caused me to need help so I talked to a contractor on Fivver to help me learn and decided it was best to learn from a course called [Dart Tutorial for Beginners: Basics and Fundamentals for Flutter](https://www.youtube.com/watch?v=4h5q5jfkdYg&list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q&index=30)
+16. Built GenPlan with some helping adding Replicate API and Rebuilt Heavenya entirely Solo.
+17. Built multiple websites using Svelte & Next.js
+18. Built algorthims in Automated ML Algorithums in Python.
 
 ## Learn 
 - Object Oriented Programming Concepts Of Abstraction, Encapsulation, Inheritance, Polymorphism
